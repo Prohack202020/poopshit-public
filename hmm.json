@@ -3,7 +3,7 @@
     {
       "name": "lime",
       "type": "haxelib",
-      "version": null
+      "version":"7.9.0"
     },
     {
       "name": "openfl",
@@ -33,7 +33,7 @@
     {
       "name": "hxcpp",
       "type": "haxelib",
-      "version": null
+      "version":"4.2.1"
     },
     {
       "name": "tjson",
@@ -48,7 +48,7 @@
     {
       "name": "hxCodec",
       "type": "haxelib",
-      "version": null
+      "version":"2.5.1"
     },
     {
       "name": "SScript",
@@ -59,6 +59,13 @@
       "name": "hxcpp-debug-server",
       "type": "haxelib",
       "version": null
+    },
+    {
+      "name":"extension-androidtools",
+      "type":"git",
+      "dir":null,
+      "ref":"main",
+      "url":"https://github.com/MaysLastPlay77/extension-androidtools"
     },
     {
       "name": "discord_rpc",
